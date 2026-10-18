@@ -26,6 +26,7 @@ healthcare-backend/
 ├── package.json
 └── README.md
 
-⚙️ Setup & Installation Instructions
+## ⚙️ Setup & Installation Instructions
 
-1. Clone the repository:
+# 1. Clone the repository:
+
